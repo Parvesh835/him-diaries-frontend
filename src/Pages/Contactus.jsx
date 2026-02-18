@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./contactus.css";
+import "./Contactus.css";
 import useMutation from "../hooks/useMutation";
 import { submitContact } from "../service/contactApi";
 import toast from "react-hot-toast";
