@@ -17,7 +17,7 @@ const LahulSpiti = () => {
       decs: "Chandra Taal, or 'Lake of the Moon', is a stunning high-altitude, crescent-shaped lake situated at 4,300 meters (14,100 ft) in the Spiti part of the Lahaul and Spiti district in Himachal Pradesh, India. Renowned for its changing colors from reddish to emerald green, it is a premier camping and trekking destination accessible from late May to early October.",
     },
     {
-      name: "Suraj Tal",
+      name: "Suraj Taal",
       img: Suraj_Tal,
       decs: "Suraj Tal, or the 'Lake of the Sun God', is a breathtaking, sacred, high-altitude lake located near the Bara-lacha-la Pass in Himachal Pradesh's Lahaul and Spiti district. At approximately 4,950 meters (16,024 ft) above sea level, it is the third-highest lake in India, acting as the source of the Bhaga River.",
     },

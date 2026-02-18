@@ -21,7 +21,7 @@ const Chamba = () => {
     {
       name: "Khajjiar",
       img: Khajiyar,
-      decs: "SKhajjiar is a hill station in the north Indian state of Himachal Pradesh. Dating from the 12th century, Khajji Nag Temple is dedicated to a serpent god. Nearby, the high-altitude Khajjiar Lake is surrounded by cedar forest. West, Kalatop Wildlife  Sanctuary is home to animals including deer and bears. Farther west, Dalhousie is a hill station with mountain views, dotted with temples and 19th-century British churches.",
+      decs: "Khajjiar is a hill station in the north Indian state of Himachal Pradesh. Dating from the 12th century, Khajji Nag Temple is dedicated to a serpent god. Nearby, the high-altitude Khajjiar Lake is surrounded by cedar forest. West, Kalatop Wildlife  Sanctuary is home to animals including deer and bears. Farther west, Dalhousie is a hill station with mountain views, dotted with temples and 19th-century British churches.",
     },
     {
       name: "Chaurasi Temple",

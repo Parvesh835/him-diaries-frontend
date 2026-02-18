@@ -30,7 +30,7 @@ const Mandi = () => {
       decs: "There is an ancient stone idol of Dev Kamrunag near the lake, hence the name of the lake. People believe that Dev Kamrunag gives blessings to his devotees in exchange for their offerings of faith, devotion, flowers, coins or paper currency which they toss into Kamrunag Lake. Each year in the month of June, there is a big fair, where thousands of people from different places flock to see and worship Dev Kamrunag and take his blessings.",
     },
     {
-      name: "Rewalsar Lakee",
+      name: "Rewalsar Lake",
       img: rewalsar_lake,
       decs: "Rewalsar Lake, located about 24 km from Mandi in Himachal Pradesh, is a sacred, high-altitude (1,360m) water body revered by Buddhists, Hindus, and Sikhs, known for its floating reed islands. Also called Tso Pema, it is famous for its connection to Padmasambhava (Guru Rinpoche) and houses three Buddhist monasteries, a Gurudwara, and several Hindu temples, making it a major spiritual center.",
     },
