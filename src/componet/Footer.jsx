@@ -24,6 +24,7 @@ const Footer = () => {
             <Link to="/District">Districts</Link>
             <Link to="/Gallery">Gallery</Link>
             <Link to="/Aboutus">About Us</Link>
+            <Link to="/Developerr">developer</Link>
           </div>
 
           {/* Explore */}

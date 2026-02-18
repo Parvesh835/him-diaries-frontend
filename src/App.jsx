@@ -36,7 +36,7 @@ const router = createBrowserRouter([
       { path: "/admin/messages", element: <AdminMessages /> },
       { path: "/admin/add-gallery", element: <AddGallery /> },
       { path: "/admin/dashboard", element: <Dashboard /> },
-      { path: "/Develper", element: <Developertab /> },
+      { path: "/Developer", element: <Developertab /> },
       { path: "/adventure", element: <Adventure_Trails /> },
       { path: "/Temples", element: <Temples /> },
     ],
