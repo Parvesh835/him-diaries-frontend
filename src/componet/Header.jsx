@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from "react";
 import "./Header.css";
 import { Link, useNavigate, useLocation } from "react-router-dom";
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 import { AuthContext } from "../context/AuthContext";
 import { Menu, X, User, LogOut, LayoutDashboard, Image, MessageSquare, MapPin } from "lucide-react";
 
