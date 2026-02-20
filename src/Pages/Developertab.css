@@ -9,7 +9,7 @@
 
 .dev-container {
   display: flex;
-  padding-top: 150px;
+  padding-top: 135px;
   justify-content: center;
   align-items: stretch;
   gap: 30px;
@@ -41,4 +41,12 @@
 .role {
   color: #0f766e;
   font-weight: 600;
+}
+
+.dev-description {
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+  background: #e0f2f1;
+  border-radius: 10px;
 }

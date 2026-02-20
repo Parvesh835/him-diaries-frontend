@@ -4,6 +4,7 @@ import Parvesh from "../assets/Parvesh.jpeg";
 import APSir from "../assets/A.PSir.jpeg";
 import Piyush from "../assets/Piyush.jpeg";
 import Tamanna from "../assets/Tamanna.jpeg";
+import {Mail} from "lucide-react";
 const Developertab = () => {
   return (
     <div className="dev-page">
@@ -11,27 +12,37 @@ const Developertab = () => {
         <div className="dev-card">
           <img src={APSir} alt="Guide" />
           <h2>Er.Amar Paul Singh</h2>
-          <p className="role"> Guide</p>
+          <p className="role"> Guide</p><br />
+          <p> <Mail size={18} /> <p >AmarPaulSingh@gmail.com</p></p>
+
         </div>
 
         <div className="dev-card">
           <img src={Parvesh} alt="Developer" />
           <h2>Parvesh Sharma</h2>
-          <p className="role"> Developer</p>
+          <p className="role"> Developer</p><br />
+          <p> <Mail size={18} /> <p >Parveshsharma835@gmail.com</p></p>
+
         </div>
 
         <div className="dev-card">
           <img src={Piyush} alt="Developer" />
           <h2>Piyush Malik</h2>
-          <p className="role">Developer</p>
+          <p className="role">Developer</p><br />
+          <p> <Mail size={18} /> <p >Piyushmalik18@gmail.com</p></p>
+
         </div>
 
         <div className="dev-card">
           <img src={Tamanna} alt="Developer" />
           <h2>Tamanna Dhiman</h2>
-          <p className="role">Developer</p>
+          <p className="role">Developer</p><br />
+          <p> <Mail size={18} /> <p>Tamannadhiman19@gmail.com</p> </p>
         </div>
       </div>
+      <div className="dev-description">
+        <h3>Thank you for visiting Him-Diaries. Your support and love inspire us to explore and share more beautiful stories.</h3>
+        </div>
     </div>
   );
 };
