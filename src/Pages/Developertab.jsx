@@ -41,7 +41,7 @@ const Developertab = () => {
         </div>
       </div>
       <div className="dev-description">
-        <h3>Thank you for visiting Him-Diaries. Your support and love inspire us to explore and share more beautiful stories.</h3>
+        <h3>Thank you for visiting Him-Diaries. Your support and love inspire us to explore and share more beautiful places.</h3>
         </div>
     </div>
   );
