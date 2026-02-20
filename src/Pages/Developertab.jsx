@@ -13,7 +13,7 @@ const Developertab = () => {
           <img src={APSir} alt="Guide" />
           <h2>Er.Amar Paul Singh</h2>
           <p className="role"> Guide</p><br />
-          <p> <Mail size={18} /> <p >AmarPaulSingh@gmail.com</p></p>
+          <p> <Mail size={18} /> <p >Singhamarpaul1@gmail.com</p></p>
 
         </div>
 
@@ -29,7 +29,7 @@ const Developertab = () => {
           <img src={Piyush} alt="Developer" />
           <h2>Piyush Malik</h2>
           <p className="role">Developer</p><br />
-          <p> <Mail size={18} /> <p >Piyushmalik18@gmail.com</p></p>
+          <p> <Mail size={18} /> <p >Piyushmalik870@gmail.com</p></p>
 
         </div>
 
