@@ -73,7 +73,7 @@ const Header = () => {
               <Link to="/admin/messages" className={`nav-link ${isActive("/admin/messages")}`}>
                 <MessageSquare size={18} /> Messages
               </Link>
-              <Link to="/Developer">Developer</Link>
+              <Link to="/Developer" className={`nav-link ${isActive("/Developer")}`}>Developer</Link>
             </>
           )}
         </nav>
