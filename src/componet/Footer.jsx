@@ -1,5 +1,6 @@
 import React from "react";
 import "./Footer.css";
+import {Mail , MapPin} from "lucide-react";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
@@ -37,8 +38,8 @@ const Footer = () => {
           {/* Contact */}
           <div className="footer-box">
             <h3>Contact</h3>
-            <p>Email: himdiaries08@gmail.com</p>
-            <p>Location: Himachal Pradesh, India</p>
+            <p><Mail size={18} /> himdiaries08@gmail.com</p>
+            <p><MapPin size={18} /> Himachal Pradesh, India</p>
           </div>
         </div>
 
