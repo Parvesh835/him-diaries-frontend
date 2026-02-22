@@ -38,8 +38,8 @@ const Footer = () => {
           {/* Contact */}
           <div className="footer-box">
             <h3>Contact</h3>
-            <p><Mail size={18} /> himdiaries08@gmail.com</p>
-            <p><MapPin size={18} /> Himachal Pradesh, India</p>
+            <p><Mail size={14} /> himdiaries08@gmail.com</p>
+            <p><MapPin size={14} /> Himachal Pradesh, India</p>
           </div>
         </div>
 
