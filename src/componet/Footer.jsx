@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import {Mail , MapPin} from "lucide-react";
+import {Mail , MapPin , Instagram } from "lucide-react";
 import { Link } from "react-router-dom";
 const Footer = () => {
   return (
@@ -39,7 +39,8 @@ const Footer = () => {
           <div className="footer-box">
             <h3>Contact</h3>
             <p><Mail size={14} /> himdiaries08@gmail.com</p>
-            <p><MapPin size={14} /> Himachal Pradesh, India</p>
+            <p><MapPin size={14} /> Ghumarwin, Himachal Pradesh, India</p>
+            <p><a href="https://www.instagram.com/_him_diaries_?igsh=MWVzMDFkY2g5a2g2dg=="><Instagram size={14} /> @himdiaries</a></p>
           </div>
         </div>
 
