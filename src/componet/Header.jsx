@@ -43,7 +43,7 @@ const Header = () => {
             <img src={Logo} alt="Him Diaries Logo" className="logo-img" />
           </Link>
           <Link to="/" className="brand-name">
-            Him Diaries
+            Him-Diaries
           </Link>
         </div>
 
