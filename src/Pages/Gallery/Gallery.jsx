@@ -67,8 +67,8 @@ const Gallery = () => {
   return (
     <div className="gallery-page">
       <div className="gallery-hero-section">
-        <h1 className="gallery-hero-title">Visual Journey</h1>
-        <p className="gallery-hero-subtitle">Through the lens of Himachal</p>
+        {/* <h1 className="gallery-hero-title">Visual Journey</h1>
+        <p className="gallery-hero-subtitle">Through the lens of Himachal</p> */}
       </div>
 
       <div className="gallery-container">

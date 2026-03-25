@@ -18,8 +18,8 @@
 /* Hero Section */
 .districts-hero {
   height: 60vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url('https://images.unsplash.com/photo-1566838234762-b5e94b2a87a2?q=80&w=2070&auto=format&fit=crop'); /* Generic Himachal Landscape */
+  background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+                  url('../assets/Bandladistrictpage.jpeg') center/cover no-repeat; /* Generic Himachal Landscape */
   background-size: cover;
   background-position: center;
   display: flex;
