@@ -56,7 +56,7 @@ const Header = () => {
               <Link to="/Gallery" className={`nav-link ${isActive("/Gallery")}`}>Gallery</Link>
               <Link to="/About" className={`nav-link ${isActive("/About")}`}>About</Link>
               <Link to="/Contactus" className={`nav-link ${isActive("/Contactus")}`}>Contact</Link>
-              <Link to="/Developer" className={`nav-link ${isActive("/Developer")}`}>Developer</Link>
+              {/* <Link to="/Developer" className={`nav-link ${isActive("/Developer")}`}>Developer</Link> */}
             </>
           )}
 
@@ -74,7 +74,7 @@ const Header = () => {
               <Link to="/admin/messages" className={`nav-link ${isActive("/admin/messages")}`}>
                 <MessageSquare size={18} /> Messages
               </Link>
-              <Link to="/Developer" className={`nav-link ${isActive("/Developer")}`}> <Code size={18} />Developer</Link>
+              {/* <Link to="/Developer" className={`nav-link ${isActive("/Developer")}`}> <Code size={18} />Developer</Link> */}
             </>
           )}
         </nav>
